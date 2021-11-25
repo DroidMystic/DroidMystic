@@ -21,6 +21,6 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL Logo" width="50" height="50"/>
 
 ---
