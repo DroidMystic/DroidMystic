@@ -14,4 +14,4 @@ Hey There 🌸
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INFI-NIXEL&theme=blue-green)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=INFI-NIXEL&repo=repo-name&show_owner=true)](https://github.com/INFI-NIXEL/repo-name)
+
