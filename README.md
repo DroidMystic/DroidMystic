@@ -1,5 +1,7 @@
 
-Hey There 🌸
+
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sabir!
+
 - 🌝 My name is Sabir Khan 
 - 💻 I am an intermediate Python Programmer
 - ✨ I’m currently learning Flutter
@@ -14,5 +16,4 @@ Hey There 🌸
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INFI-NIXEL&theme=blue-green)
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sabir!
 
