@@ -20,6 +20,6 @@
 ---
 
 🧰 Toolbox
-<img src="https://worldvectorlogo.com/download/python-3.svg" alt="Python Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/dart.svg" alt="Dart Logo" width="50" height="50"/>
+<img src="https://worldvectorlogo.com/download/python-3.svg" alt="Python Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/dart" alt="Dart Logo" width="50" height="50"/>
 
 ---
