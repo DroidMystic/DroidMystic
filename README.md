@@ -13,3 +13,5 @@ Hey There 🌸
 [![Infinixel's github stats](https://github-readme-stats.vercel.app/api?username=INFI-NIXEL&count_private=true&show_icons=true&theme=blue-green&hide_rank=false)](https://github.com/INFI-NIXEL/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INFI-NIXEL&theme=blue-green)
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=INFI-NIXEL&repo=repo-name&show_owner=true)](https://github.com/INFI-NIXEL/repo-name)
