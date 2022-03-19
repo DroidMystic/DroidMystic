@@ -10,7 +10,7 @@
 - 🖥️ I have basic knowledge in Linux 
 - 📫 How to reach me:
    [Telegram](https://t.me/INFINIXEL)
-   [Instagram](https://www.instagram.com/the_sigma_programmer)
+   [Instagram](https://www.instagram.com/com.insta.sabir)
 
 [![Infinixel's github stats](https://github-readme-stats.vercel.app/api?username=INFI-NIXEL&count_private=true&show_icons=true&theme=blue-green&hide_rank=false)](https://github.com/INFI-NIXEL/github-readme-stats)
 
