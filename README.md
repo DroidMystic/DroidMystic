@@ -4,7 +4,7 @@
 
 - 🌝 My name is Sabir Khan 
 - 💻 I am an intermediate Python Programmer
-- ✨ I’m currently learning Native Android Development {Kotlin}
+
 - 😌 A Tech Enthusiast
 - 📱 I have good knowledge in Android
 - 🖥️ I have basic knowledge in Linux 
