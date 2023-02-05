@@ -22,8 +22,6 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=INFI-NIXEL&icon=9&color=3)](https://visitcount.itsvg.in)
 
 
 
