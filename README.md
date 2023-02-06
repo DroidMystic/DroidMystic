@@ -1,12 +1,11 @@
 # 💫Hello! I am Sabir Khan,an Android Developer from India
 🌱 I’m currently learning Android Development <br />
 💬 Ask me about - Python, Android, Aosp, Kotlin, MySQL <br />
-📫 How to reach me -[Telegram](https://t.me/INFINIXEL)
 
 [![](https://visitcount.itsvg.in/api?id=INFI-NIXEL&icon=9&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/com.insta.sabir) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/INFINIXEL) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/INFINIXEL) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/com.insta.sabir) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/INFINIXEL) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/INFINIXEL) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/INFINIXEL)
 
 
 # 💻Tech Stack
