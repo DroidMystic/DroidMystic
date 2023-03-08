@@ -5,7 +5,18 @@
 [![](https://visitcount.itsvg.in/api?id=INFI-NIXEL&icon=9&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/com.insta.sabir) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/INFINIXEL) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DevXStar) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DevXStar)
+<a href="https://t.me/DevXStar">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" alt="Telegram" title="Telegram" width="65" height="65" />
+</a>
+
+<a href="https://instagram.com/com.insta.sabir">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Instagram" title="Instagram" width="65" height="65" />
+</a>
+
+
+<a href="https://www.twitter.com/DevXStar">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="Twitter" title="Twitter" width="65" height="65" />
+</a>
 
 
 # 💻Tech Stack
