@@ -2,7 +2,7 @@
 🌱 I’m currently learning Android Development <br />
 💬 Ask me about - Python, Android, Aosp, Kotlin, MySQL <br />
 
-[![](https://visitcount.itsvg.in/api?id=DroidMystic&icon=9&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DroidMystic&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐Socials
 <a href="https://t.me/DroidMystic">
