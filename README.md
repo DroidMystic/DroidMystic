@@ -1,4 +1,4 @@
-# 💫Hello! I am Sabir Khan,an Android Developer from India
+# 💫Hello! I am Sabir Khan,a Developer from India
 🌱 I’m currently learning Android Development <br />
 💬 Ask me about - Python, Android, Aosp, Kotlin, MySQL <br />
 
