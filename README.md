@@ -1,9 +1,11 @@
 # 💫Hello! I am Sabir Khan,a Developer from India
-🌱 I’m currently learning Android Development <br />
-💬 Ask me about - Python, Android, Aosp, Kotlin, MySQL <br />
+![](https://i.pinimg.com/originals/74/fa/be/74fabe0ac2588f7f052170708b5136b8.gif)
 
 [![](https://visitcount.itsvg.in/api?id=DroidMystic&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F7D8&width=435&lines=Android+Developer;Tech+Enthusiast;Always+open+to+learning;I+Love+Cats)](https://git.io/typing-svg)
+
+I am a 19yo developer from India and I love exploring Android. I am always ready to make a contribution. I sometimes do photography and I enjoy watching web series
 ## 🌐Socials
 <a href="https://t.me/DroidMystic">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" alt="Telegram" title="Telegram" width="65" height="65" />
