@@ -1,5 +1,5 @@
 # 💫Hello! I am Sabir Khan,a Developer from India
-![](https://i.pinimg.com/originals/74/fa/be/74fabe0ac2588f7f052170708b5136b8.gif)
+![](https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966)
 
 [![](https://visitcount.itsvg.in/api?id=DroidMystic&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
