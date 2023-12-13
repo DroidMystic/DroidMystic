@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=DroidMystic&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F7D8&width=435&lines=Android+Developer;Tech+Enthusiast;Always+open+to+learning;I+Love+Cats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F7D8&width=435&lines=App+Developer;Tech+Enthusiast;Always+open+to+learning)](https://git.io/typing-svg)
 
 I am a 19yo developer from India and I love exploring Android. I am always ready to make a contribution. I sometimes do photography and I enjoy watching web series
 ## 🌐Socials
