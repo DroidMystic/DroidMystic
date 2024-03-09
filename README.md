@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=DroidMystic&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-## A psuedo nerd who loves building mobile apps!
+## A psuedo nerd who loves to build mobile apps!
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
