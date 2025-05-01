@@ -1,6 +1,6 @@
 ![GHBanner](https://github.com/DroidMystic/DroidMystic/assets/71398791/3b7a3153-75a2-47b8-8edf-8ff9c5f74baa)
 
-[![](https://visitcount.itsvg.in/api?id=DroidMystic&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=droidmystic&color=brightgreen)
 
 ## I love tinkering around with Android!
 
