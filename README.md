@@ -3,10 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=droidmystic&color=brightgreen)
 
 ## I love tinkering around with Android!
-
-### Github Stats
-
-![Sabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=droidmystic&show_icons=true&theme=transparent)
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
