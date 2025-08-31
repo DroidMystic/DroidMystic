@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=droidmystic&color=brightgreen)
 
-## I love tinkering around with Android!
+## The Android Guy!
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
